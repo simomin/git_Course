@@ -3,3 +3,6 @@ for philosophik git Course
 
 
 ### Project Notes
+
+
+~~hopacha~~
